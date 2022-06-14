@@ -1,0 +1,8 @@
+cd ~/code/typhoon/typhoon/
+
+rm -r ./build/*
+cd ./build
+cmake ..
+make
+cd ..
+cp ./build/typhoon ./
