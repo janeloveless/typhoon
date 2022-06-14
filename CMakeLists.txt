@@ -10,7 +10,7 @@ include_directories( ./include ./src )
 
 # target
 add_executable( typhoon 
-		./src/core.h )	# further cpp sources may be added here
+		./src/main.cpp )	# further cpp sources may be added here
 
 # 3rd party libs
 

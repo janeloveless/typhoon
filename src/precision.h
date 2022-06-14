@@ -1,4 +1,4 @@
-namespace cyclone {
+namespace typhoon {
 	/*
 	 * Defines precision to be used for "real" numbers.
 	 */

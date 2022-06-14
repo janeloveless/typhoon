@@ -1,4 +1,4 @@
-cd ~/code/typhoon/typhoon/
+#cd ~/code/typhoon/typhoon/
 
 rm -r ./build/*
 cd ./build
