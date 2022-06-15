@@ -5,6 +5,7 @@
 // project includes
 #include "precision.h"
 #include "core.h"
+#include "particle.h"
 
 using namespace std;
 
@@ -20,4 +21,6 @@ int main(int argc, char *argv[]) {
 	typhoon::Vector3 v = c*(X % Y);
 
 	cout << v.x << ", " << v.y << ", " << v.z << endl;
+
+	return 0;
 }

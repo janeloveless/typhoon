@@ -81,12 +81,12 @@ clean: CMakeFiles/typhoon.dir/clean
 CMakeFiles/typhoon.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/typhoon.dir/build.make CMakeFiles/typhoon.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/typhoon.dir/build.make CMakeFiles/typhoon.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lvlz/code/typhoon/typhoon/build/CMakeFiles --progress-num=1,2 "Built target typhoon"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lvlz/code/typhoon/typhoon/build/CMakeFiles --progress-num=1,2,3 "Built target typhoon"
 .PHONY : CMakeFiles/typhoon.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/typhoon.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lvlz/code/typhoon/typhoon/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lvlz/code/typhoon/typhoon/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/typhoon.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lvlz/code/typhoon/typhoon/build/CMakeFiles 0
 .PHONY : CMakeFiles/typhoon.dir/rule
